@@ -1,12 +1,12 @@
 {
-  "name": "mailparser",
+  "name": "mailparser-iconv-full",
   "version": "2.0.2",
-  "description": "Parse e-mails",
+  "description": "Parse e-mails - with iconv full",
   "main": "index.js",
   "scripts": {
     "test": "grunt"
   },
-  "author": "Andris Reinman",
+  "author": "Original project by Andris Reinman , forked by Samuele Chiocca",
   "license": "EUPL-1.1",
   "dependencies": {
     "addressparser": "1.0.1",
@@ -32,9 +32,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/andris9/mailparser.git"
+    "url": "https://github.com/nutellinoit/mailparser-iconv-full"
   },
   "bugs": {
-    "url": "https://github.com/andris9/mailparser/issues"
+    "url": "https://github.com/nutellinoit/mailparser-iconv-full/issues"
   }
 }
