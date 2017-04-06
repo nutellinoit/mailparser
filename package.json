@@ -1,6 +1,6 @@
 {
   "name": "mailparser-iconv-full",
-  "version": "2.0.2",
+  "version": "2.0.3",
   "description": "Parse e-mails - with iconv full",
   "main": "index.js",
   "scripts": {
